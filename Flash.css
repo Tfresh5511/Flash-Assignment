@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana,sans-serif;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    font-size: x-large;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+li{
+    margin: 20px;
+}
+.login{
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+    font-weight: bold;
+    border: 5px;
+    margin-left: 100px;
+}
+.signup{
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: rgb(217, 217, 34);
+    margin-right: 50px;
+    border-color: rgb(217, 217, 34);
+}
+span{
+    color: rgb(217, 217, 34);
+}
+.page-one{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+}
+.content-left{
+    height: 90vh;
+    width: 50%;
+    background-color: navy;
+}
+.bold{
+    font-size: 100px;
+    font-weight: 500;
+    color: whitesmoke;
+    margin: 50px 80px;
+}
+.small{
+    font-size: large;
+    color: whitesmoke;
+    margin: 5px 80px;
+}
+.img-one{
+    height: 800px;
+    width: 950px;
+    overflow: hidden;
+}
+.book{
+    width: 200px;
+    height: 50px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: rgb(217, 217, 34);
+    margin-right: 50px;
+    border-color: rgb(217, 217, 34);
+    margin: 20px 80px;
+}
+.request{
+    width: 200px;
+    height: 50px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: navy;
+    margin-right: 50px;
+    border-color: white;
+    color: white;
+}
+.page-two{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    padding: 100px;
+}
+.Our{
+    text-align: center;
+    margin: 50px;
+}
+.box-one{
+    width: 500px;
+    height: 550px;
+    background-color: whitesmoke;
+    margin: 200px 60px;
+    padding: 20px 30px;
+}
+.box-one h2{
+    margin: 50px 90px;
+}
+.box-one p{
+    margin: 20px 90px;
+
+}
+.box-one h3{
+    margin: 20px 120px;
+}
+.taxi{
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -60px;
+}
+.Booknow{
+    margin: 10px 120px;
+    width: 70px;
+    height: 40px;
+}
+.box-onee{
+    width: 500px;
+    height: 550px;
+    background-color: navy;
+    color: #ffff;
+    margin: 200px 30px;
+    padding: 20px 50px;
+}
+.box-onee h2{
+    margin: 50px 90px;
+}
+.box-onee p{
+    margin: 20px 90px;
+
+}
+.box-onee h3{
+    margin: 20px 120px;
+}
+.taxi{
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-top: -60px;
+}
+.Booknoww{
+    margin: 10px 120px;
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+.box-oneee{
+    width: 500px;
+    height: 550px;
+    background-color: whitesmoke;
+    margin: 200px 30px;
+    padding: 20px 50px;
+}
+.box-oneee h2{
+    margin: 50px 90px;
+}
+.box-oneee p{
+    margin: 20px 90px;
+
+}
+.box-oneee h3{
+    margin: 20px 120px;
+}
+.taxi{
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: -60px;
+}
+.Booknowww{
+    margin: 10px 120px;
+    width: 70px;
+    height: 40px;
+}
+.page-three{
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(217, 217, 34);
+}
+.page-three h1{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.card-row1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+.card{
+    margin: 100px;
+}
+.card1{
+    padding: 0px;
+}
+.card1 p{
+    margin: 20px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.card-row2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+.card2{
+    padding: 0px;
+}
